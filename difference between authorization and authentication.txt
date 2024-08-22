@@ -1,0 +1,32 @@
+Authentication and authorization are basic principles in terms of security, often used together and yet serving a variety of malicious functions:
+
+
+Certificate of Authenticity
+Purpose: Authentication is the process of verifying the identity of a user or device. It assures that a person or company is what they claim to be.
+
+How it really works: It typically involves a aggregate of credentials like:
+Something you recognize: Passwords or PINs.
+Something you have: Security tokens, clever playing cards, or mobile telephones (for receiving OTPs).
+Something you are: Biometric records like fingerprints, facial popularity, or retina scans.
+Outcome: Successful authentication grants the person get admission to to the system, however it doesn’t determine what actions they could perform in the machine.
+Authorization
+Purpose: Authorization is the system of determining what an authenticated consumer is allowed to do. It controls access to sources and moves within a system.
+How it works: Authorization commonly includes guidelines and rules that outline:
+Access Control Lists (ACLs): Who can get admission to positive statistics or carry out precise movements.
+Role-Based Access Control (RBAC): Assigning permissions based totally on person roles inside the employer.
+Permissions: Specific rights to view, edit, delete, or create resources.
+Outcome: Successful authorization lets in the person to perform unique movements or access particular resources as described by means of their permissions.
+Key Differences
+Sequence: Authentication comes first; it establishes identity.Empowerment follows; It specifies what that identifier is allowed to do.
+Functionality: Authentication is about identity verification, while authorization is ready access management.
+Scope: Authentication is associated with user credentials, while authorization is associated with customer authorization and access rights.
+Example of scenario
+Authentication: Assume you are logged into your email account. You enter your username and password, and also send a verification code to your phone. This process authenticates you, confirming that you are indeed the owner of the account. Upon successful completion of this position, you will receive a certificate
+
+Permissions: Now that you’re logged into your email account you’ll want to do a variety of things—read emails, send messages, or maybe even manage account settings. However, if you’re using a shared or company email system, your ability to perform certain actions may be restricted. For instance, you might not have the authorization to delete emails from a shared inbox or change security settings. These permissions are defined by your role and the system’s policies.
+
+In this case:
+
+Authentication is the process that allowed you to log in by verifying your identity.
+The license sets out what you are allowed to do while logged in, such as reading, sending, or viewing emails based on your access rights.
+This distinction is important for ensuring that even if someone has access to the system (authentication) they can only do the things they are allowed to do (authorization).
